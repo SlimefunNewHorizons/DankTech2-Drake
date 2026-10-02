@@ -39,12 +39,12 @@ A big shout out to the owners of [mct.tantrum.org](https://mct.enjin.com/) who l
 
 Another big shoutout to **GentlemanCheesy** of **mc.talosmp.net** for being my first (and as of writing this, only!) sponsor. A few coffee's a month to make me feel better about making these addons <3
 
-## ⚖️ Upstream Attribution & License / Licencia y Créditos
+---
 
-- **Original Project / Upstream**: Slimefun4 Community Addon.
-- **Port & Maintenance**: DrakesCraft Labs team (Compatibility for Paper / Purpur 1.21.11).
-- **License**: GPL-3.0 / MIT.
-- **Source Code**: [GitHub Repository](https://github.com/DrakesCraft-Labs/DankTech2-Drake)
-- **Support & Issues**: [GitHub Issues](https://github.com/DrakesCraft-Labs/DankTech2-Drake/issues) | [Discord](https://discord.gg/rv3vtXZTk7)
+## 📄 License & Upstream Attribution
 
-*This project is an open-source derivative work maintained by DrakesCraft Labs under the terms of its original license. All original assets and concepts belong to their respective creators.*
+This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs).
+
+- **Original Project:** Created by the upstream authors and the open-source community.
+- **DrakesCraft Optimizations:** Modernized for Paper/Purpur 1.21.11+, Java 21, high concurrency, asynchronous safety, and exploit/duplication prevention.
+- **License:** Distributed under the original **GNU General Public License v3.0 (GPLv3)** (or original upstream license). See the [LICENSE](LICENSE) file for complete terms.
