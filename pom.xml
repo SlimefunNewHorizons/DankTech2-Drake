@@ -15,7 +15,7 @@
         <maven.compiler.release>${java.version}</maven.compiler.release>
         <paper.version>1.21.11-R0.1-SNAPSHOT</paper.version>
         <lombok.version>1.18.46</lombok.version>
-        <slimefun.drake.version>11.0-Drake-1.21.11-SNAPSHOT</slimefun.drake.version>
+        <slimefun.drake.version>11.0-Universal-26.x-SNAPSHOT</slimefun.drake.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <sonar.projectKey>DankTech2</sonar.projectKey>
         <sonar.organization>sefiraat</sonar.organization>
